@@ -1,0 +1,2 @@
+Le  plus  ou  moins  est  un  jeu  consistant  a  trouver  un nombre (choisi par 
+l'adversaire).

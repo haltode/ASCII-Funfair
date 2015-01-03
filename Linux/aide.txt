@@ -1,0 +1,86 @@
+Bienvenue dans ASCII Funfair !
+
+ASCII  Funfair  est  une  plateforme  de  jeux  regroupant  plusieurs programmes 
+divertissants.  Pour  passer  de  menu en menu il vous faut utilser les nombres, 
+cependant  vous  pouvez  entrer -1 pour revenir en arriere (non valable dans les 
+jeux  en  cours)  et 0 pour quitter a tout moment. N'oubliez pas de bien lire ce 
+qui est marque pour eviter de mauvaises manipulations. ;)
+
+- Solo :
+
+- Continuer :
+
+Le  choix  "Continuer" vous permet de continuer la derniere partie que vous avez
+recemment quittee.
+
+- Charger partie :
+
+Le  choix  "Charger partie"  vous permet de choisir quelle partie souhaitez-vous
+charger.
+
+- Nouvelle partie :
+
+Le choix "Nouvelle partie" vous permet de creer une nouvelle partie.
+
+- Supprimer partie :
+
+Le choix "Supprimer partie" vous permet de supprimer une partie.
+
+- Jeux : 
+
+Ce  menu  vous  permet  de jouer aux jeux que vous avez debloque avec vos points
+normaux  ainsi que vos points VIP. Les points normaux se gagnent en jouant a des
+jeux. Les points VIP sont particuliers, pour les jeux : 
+
+	- Plus ou Moins : trouver le nombre en 1 coup rapporte 2 points VIP,
+	le trouver en 2 coups n'en rapporte que 1.
+
+	- Pendu : trouver le mot en 1 coup rapporte 2 points VIP, le trouver
+	en 2 coups n'en rapporte que 1.
+
+	- Morpion : gagner une partie en 4 coups (ou moins) et en difficile 
+	rapporte 1 point.
+
+	- Puissance 4 : gagner une partie en 8 coups (ou moins) et en difficile
+	rapporte 1 point.
+
+	- Mastermind : trouver la combinaison secrete en 4 coups (ou moins)
+	rapporte 3 points.
+
+	- Bataille Navale : gagner une partie en moins de 60 secondes rapporte
+	2 points.
+	
+	- Pacman : finir le niveau en moins de 80 secondes rapporte 2 points
+
+	- Roulette Russe : Aucun point VIP n'est disponible pour ce jeux.
+
+
+- Magasin de Jeux : 
+
+Ce  menu  vous permet de debloquer des jeux. Avec vos points normaux vous pouvez
+choisir  le  jeux  que  vous  souhaitez  debloquer,  chaque  jeux  est tries par 
+categorie  et  par  prix.  Les  jeux  en  vert  sont les jeux que vous avez deja 
+achetes,  les  jeux en bleu sont les jeux que vous pouvez acheter et les jeux en
+rouge  sont  les  jeux  que  vous ne pouvez pas acheter. Avec 5 points VIP, vous
+pouvez  debloquer  le  prochain  jeux  de votre liste de jeux que vous avez deja 
+achetes.
+
+- Aide :
+
+L'aide  vous  permet  d'acceder  a  ce fichier, vous pouvez le retrouvez dans le
+fichier source "aide.txt" ;)
+
+- Revenir a l'ecran d'accueil :
+
+Cela vous permet de revenir a l'ecran d'accueil.
+
+- Multi :
+	
+Dans ce mode de jeux, vous pouvez a n'importe quel jeux a deux joueurs !
+
+
+
+Bon jeu ! :)
+
+Merci a toute la PixelCode Team, retrouvez-nous sur twitter @PixelCodeTeam
+

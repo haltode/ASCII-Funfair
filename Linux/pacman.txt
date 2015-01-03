@@ -1,0 +1,32 @@
+#################################################
+#X1 . . . . . . . . . .X#X. . . . . . . . . . 2X#
+#X.X#######X.X#######X.X#X.X#######X.X#######X.X#
+#X@X#######X.X#######X.X#X.X#######X.X#######X@X#
+#X.X#######X.X#######X.X#X.X#######X.X#######X.X#
+#X. . . . . . . . . . . . . . . . . . . . . . .X#
+#X.X#######X.X###X.X#########X.X###X.X#######X.X#
+#X.X#######X.X###X.X#########X.X###X.X#######X.X#
+#X.X#######X.X###X.X#########X.X###X.X#######X.X#
+#X. . . . . .X###X. . .X#X. . .X###X. . . . . .X#
+##########XX.X#######X X#X X#######X.XX##########
+XXXXXXXXX#XX.X###X             X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X #####--#### X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X #XXXXXXXXX# X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X #XXXXXXXXX# X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX5      #XXXXXXXXX#      6XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X ########### X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X             X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X ########### X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X ########### X###X.XX#XXXXXXXXX
+XXXXXXXXX#XX.X###X ########### X###X.XX#XXXXXXXXX
+##########XX.X###X ########### X###X.XX##########
+#X. . . . . . . . . . .X#X. . . . . . . . . . .X#
+#X.X#######X.X#######X.X#X.X#######X.X#######X.X#
+#X.X#######X. . . . . .   . . . . . .X#######X.X#  
+#X@ .X#####X.X###X.X#########X.X###X.X#####X. @X# 
+###X.X#####X.X###X.X#########X.X###X.X#####X.X###
+#X. . . . . .X###X. . .X#X. . .X###X. . . . . .X#
+#X.X#################X.X#X.X#################X.X#
+#X.X#################X.X#X.X#################X.X#
+#X3 . . . . . . . . . . . . . . . . . . . . . 4X#
+#################################################

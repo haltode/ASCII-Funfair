@@ -1,0 +1,10 @@
+Le Mastermind est un jeu de societe, de reflexion, et de deduction.
+
+Il  se presente sous la forme d'un plateau perfore de 10 rangees de quatre trous 
+pouvant  accueillir  des pions de couleurs (7 au total). Le but de ce jeu est de 
+trouver  la  combinaison  de  couleur  de l'autre joueur en moins de 10 coups, a
+chaque  essaie vous vous verrez indiquer par un rond blanc si vous avez place un
+pion  de la bonne couleur mais a la mauvaise place, et par un rond rouge si vous
+avez place un pion de la bonne couleur et a la bonne place.
+
+Vous jouez contre l'ordinateur.

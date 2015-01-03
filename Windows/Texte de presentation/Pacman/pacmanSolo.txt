@@ -1,0 +1,6 @@
+Pac-Man  est  un jeu video. Le jeu consiste a deplacer Pac-Man, un personnage en 
+forme  de  camembert,  a  l’interieur  d’un labyrinthe, afin de lui faire manger 
+toutes  les  pac-gommes  qui s’y trouvent en evitant de se faire toucher par des
+fantomes.  Il  peut  manger  des bonus lui permettant d'etre immunise contre les
+fantomes.
+

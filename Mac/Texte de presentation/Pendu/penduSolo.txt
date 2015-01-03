@@ -1,0 +1,2 @@
+Le  pendu  est  un  jeu consistant a trouver un mot (tire au hasard) en devinant
+quelles sont les lettres qui le composent (les lettres sont non accentuees). 

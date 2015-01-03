@@ -1,0 +1,7 @@
+La  bataille  navale,  appelee  aussi  touche-coule,  est un jeu de societe dans 
+lequel  deux joueurs doivent placer des « navires » sur une grille tenue secrete 
+et tenter de « toucher » les navires adverses. Le gagnant est celui qui parvient
+a torpiller completement les navires de l'adversaire avant que tous les siens ne
+le soient.
+
+Vous allez jouer contre l'ordinateur.

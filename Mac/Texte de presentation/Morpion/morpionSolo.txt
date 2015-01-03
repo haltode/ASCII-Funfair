@@ -1,0 +1,5 @@
+Le morpion est un jeu de reflexion se pratiquant a deux joueurs au tour par tour
+et  dont le but est d'aligner en premier 3 pions sur la grille (horizontalement, 
+verticalement, et même en diagonale).
+
+Vous jouez contre l'ordinateur.
