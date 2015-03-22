@@ -1,5 +1,6 @@
 # ASCII Funfair
 
+*Date du projet : Juin 2013 à Septembre 2013*
 
 ASCII Funfair est une plate-forme de jeux, avec un système de solo et de multijoueur.
 
